@@ -14,20 +14,21 @@ Generate actionable insights using data visualizations
 
 **Tools & Technologies**
 
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
-Jupyter Notebook
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+- Jupyter Notebook
 
 **Key Findings**
 
-Electronics, Computers & Accessories, and Home & Kitchen dominate the product catalog.
-Most products receive ratings between 4.0 and 4.5, indicating generally high customer satisfaction.
-Actual price and discounted price are strongly correlated.
-Discount percentages have little impact on product ratings.
-Amazon Basics and boAt products generate the highest levels of customer engagement based on review counts.
+- Electronics, Computers & Accessories, and Home & Kitchen dominate the product catalog.
+- Most products receive ratings between 4.0 and 4.5, indicating generally high customer satisfaction.
+- Actual price and discounted price are strongly correlated.
+- Discount percentages have little impact on product ratings.
+- Amazon Basics and boAt products generate the highest levels of customer engagement based on review counts.
 
 **Outcome**
+
 This project demonstrates the complete data analysis workflow, including data cleaning, exploratory analysis, visualization, and insight generation, while showcasing practical Python skills for data analytics.
