@@ -32,3 +32,7 @@ Generate actionable insights using data visualizations
 **Outcome**
 
 This project demonstrates the complete data analysis workflow, including data cleaning, exploratory analysis, visualization, and insight generation, while showcasing practical Python skills for data analytics.
+
+# Link to the Kaggle Notebook:
+
+https://www.kaggle.com/code/saidakmal31/amazon-dataset-analysis
