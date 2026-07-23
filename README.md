@@ -39,3 +39,5 @@ https://www.kaggle.com/code/saidakmal31/amazon-dataset-analysis
 
 **Link to the Amazon Sales Dataset on Kaggle:**
 https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
+
+Alternatively, you can find the Jupyter Notebook in this GitHub Repository.
