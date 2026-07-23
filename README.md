@@ -36,3 +36,6 @@ This project demonstrates the complete data analysis workflow, including data cl
 # Link to the Kaggle Notebook:
 
 https://www.kaggle.com/code/saidakmal31/amazon-dataset-analysis
+
+**Link to the Amazon Sales Dataset on Kaggle:**
+https://www.kaggle.com/datasets/karkavelrajaj/amazon-sales-dataset
